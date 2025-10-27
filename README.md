@@ -7,7 +7,7 @@ This project builds a **personalized book recommendation system** using collabor
 It was developed as part of the IFT 511 course to analyze user preferences and recommend books based on reading patterns and ratings.
 
 
-##Step I – Data Cleaning & Preparation
+## Step I – Data Cleaning & Preparation
 - Imported raw `Ratings.csv` file and mapped unique `User-ID` and `ISBN`.  
 - Generated LIBSVM-formatted data for machine learning processing.  
 - Ensured clean user-book mapping and consistent rating values.  
